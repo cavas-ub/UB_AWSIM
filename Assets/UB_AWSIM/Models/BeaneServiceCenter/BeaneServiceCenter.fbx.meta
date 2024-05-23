@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 8c7caee398c4fd54dbddedacbad3702a
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00046-texture
+    second: {fileID: 2800000, guid: 51b18922c462f824bae4d33ea272dfe8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00047-texture
+    second: {fileID: 2800000, guid: fc535de4400fdf44fbdce17f7f0836b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00048-texture
+    second: {fileID: 2800000, guid: e63c465d74512fb43ae7cb4afa048ddf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00049-texture
+    second: {fileID: 2800000, guid: 97159f5d740e1214082847eaf7913423, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00051-texture
+    second: {fileID: 2800000, guid: baf104c7db09af946ba39a6ac98de533, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00052-texture
+    second: {fileID: 2800000, guid: 5b6642da6b3f48b46930b872e428dcb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00053-texture
+    second: {fileID: 2800000, guid: 56bb796cb88775f48ad9b758af3303ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00054-texture
+    second: {fileID: 2800000, guid: 40d95990bfdf9ad4399d6d833459ac22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00056-texture
+    second: {fileID: 2800000, guid: 6c3649e1510454742aafe5e4e09acb3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00057-texture
+    second: {fileID: 2800000, guid: 27bcd67f3c97e4d42815b0f1ad6c4fab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00063-texture
+    second: {fileID: 2800000, guid: 15458f314fd74c94e95e4dbd2132ae56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00064-texture
+    second: {fileID: 2800000, guid: d5c6f74fb59278549a8da142e9279cb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00065-texture
+    second: {fileID: 2800000, guid: 30d14084cb2200e4b8a3fc956682c38b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00066-texture
+    second: {fileID: 2800000, guid: 3e69abf491e04724a85994389e43d50c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00067-texture
+    second: {fileID: 2800000, guid: c6252862dfed1d84bba8f853048e4369, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00069-texture
+    second: {fileID: 2800000, guid: 13985d7fb1f5d644b96b3e10e35b51fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00071-texture
+    second: {fileID: 2800000, guid: ef5b162e6a9d93c48b0c9493098fffdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00072-texture
+    second: {fileID: 2800000, guid: 7cd94a8a1c54c5b4f91b063b22358c62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00075-texture
+    second: {fileID: 2800000, guid: 1daaa7593931fb244a74137cca9b64a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00078-texture
+    second: {fileID: 2800000, guid: 961b6558a46c84d4593494198b92df91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00079-texture
+    second: {fileID: 2800000, guid: b30be82b7ad1c274f9a4e64f208e3c7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00080-texture
+    second: {fileID: 2800000, guid: 1c313982702fd02489c907140b3fa113, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00081-texture
+    second: {fileID: 2800000, guid: bbcce80463ffe4842a2074da913c965d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00082-texture
+    second: {fileID: 2800000, guid: 700e36cb9ee46514cae17089649494cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00086-texture
+    second: {fileID: 2800000, guid: a1f4f99f96d4d8b46a21f7c3f1365fde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00088-texture
+    second: {fileID: 2800000, guid: 8237559471b969344899594e3666b63f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00089-texture
+    second: {fileID: 2800000, guid: bb4ca6cca72eddb45bbf366f81e16d75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00090-texture
+    second: {fileID: 2800000, guid: 5ac6f6e8a6c6f9246bb45eecb23c957c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00095-texture
+    second: {fileID: 2800000, guid: dbaa39e7e4990b84fbef190994023324, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00096-texture
+    second: {fileID: 2800000, guid: a7347137e3ada5440a286999b1d9f08f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00097-texture
+    second: {fileID: 2800000, guid: f829e3625de9f064ab86cd90a72a920c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00099-texture
+    second: {fileID: 2800000, guid: baee81d984d4d514e8676508350708e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00100-texture
+    second: {fileID: 2800000, guid: 8fd33933cf3ef4e448e844f165324904, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00104-texture
+    second: {fileID: 2800000, guid: 8213109c1bd427c4ea0313d50d7afa43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00107-texture
+    second: {fileID: 2800000, guid: 4ddfa2a00406ac342ae319e813e27ae7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00108-texture
+    second: {fileID: 2800000, guid: e0adc85dceb799b478bbc8eca8baf114, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00110-texture
+    second: {fileID: 2800000, guid: cfe7ebad20c771046834e0f3a54d54f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00111-texture
+    second: {fileID: 2800000, guid: 84eb5c63d9751c94d92b1666e944f399, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00113-texture
+    second: {fileID: 2800000, guid: 67eb1344d2569f245a2f48c41d7fe1b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00114-texture
+    second: {fileID: 2800000, guid: 7fefb6afa7335e249a8b410c51c54872, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00116-texture
+    second: {fileID: 2800000, guid: 5257f943e652135438cd68abec3a7f2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BeaneServiceCenter-00117-texture
+    second: {fileID: 2800000, guid: c60b7fffa09ac0642b1497147513ba0d, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
