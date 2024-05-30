@@ -1,0 +1,1197 @@
+fileFormatVersion: 2
+guid: 43bd88edea7606d49aef45dc0aef1b1d
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00000-texture
+    second: {fileID: 2800000, guid: f5ba893bb30e3d145910496e0f94fe69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00001-texture
+    second: {fileID: 2800000, guid: b6c569559fbe6b549804cf23dfb886e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00002-texture
+    second: {fileID: 2800000, guid: 5acf121f06c2a674cadd220337522606, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00003-texture
+    second: {fileID: 2800000, guid: 9020c76e0ae9171438c0221aa83c2dae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00004-texture
+    second: {fileID: 2800000, guid: c23d9b8128ab6814d9710091b41d2eff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00005-texture
+    second: {fileID: 2800000, guid: a48533c864873b2489db1670192f60ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00006-texture
+    second: {fileID: 2800000, guid: 91e7aece97d1cf645bfac25a4d1d6c6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00007-texture
+    second: {fileID: 2800000, guid: 877ac3b03eeb9de4d9e5cf881b9ce756, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00008-texture
+    second: {fileID: 2800000, guid: b21ee2681d919654285f944f1365dfae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00009-texture
+    second: {fileID: 2800000, guid: 93c62eaa21c6d154b82f82958bd16993, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00010-texture
+    second: {fileID: 2800000, guid: 4fa9669d4c66c8444a59ec8ea3eb918b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00011-texture
+    second: {fileID: 2800000, guid: 5e278dad05d4c774d91e8342676b36a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00012-texture
+    second: {fileID: 2800000, guid: 9bc2411dedafe664581f1e9d3ad8bd81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00013-texture
+    second: {fileID: 2800000, guid: e3049674f5d578349bf78999d38aa72f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00014-texture
+    second: {fileID: 2800000, guid: aeaf58881dd52e941a5f44a5976d4736, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00015-texture
+    second: {fileID: 2800000, guid: 706bb616bf38c75459355733e4b5c6bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00016-texture
+    second: {fileID: 2800000, guid: 54aa5c8b035b31a49bbc671ec11f4939, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00017-texture
+    second: {fileID: 2800000, guid: 5066ba20dd3f1904d8f63c11b6ace0f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00018-texture
+    second: {fileID: 2800000, guid: 276b5c874b9dccc40bdf97a9c892b48e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00019-texture
+    second: {fileID: 2800000, guid: 920fba0f75a0689489fd99c726117f2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00020-texture
+    second: {fileID: 2800000, guid: 4ccfe3f6259ffbe4f827c437ea4bdcce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00021-texture
+    second: {fileID: 2800000, guid: c002e4a6f9aff7f479da4eddd2124955, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00022-texture
+    second: {fileID: 2800000, guid: c2639704f50b4dc409c2539431aba588, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00023-texture
+    second: {fileID: 2800000, guid: 5c52a7cb8e891f94bbb0543d4d1e6922, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00024-texture
+    second: {fileID: 2800000, guid: 479177cedb9bd00429b6e25213f49ee8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00025-texture
+    second: {fileID: 2800000, guid: 4b9fbc64a36883a4bb04861da21ed446, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00026-texture
+    second: {fileID: 2800000, guid: 2a466be82c2b4f248bfe3da9cb27f2fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00027-texture
+    second: {fileID: 2800000, guid: 2410b187c4363bb4a90677f02f34e6a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00028-texture
+    second: {fileID: 2800000, guid: c2926198a5e4b704697eec24380987c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00029-texture
+    second: {fileID: 2800000, guid: 4029d9540f3e5c146b40097c514d04f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00030-texture
+    second: {fileID: 2800000, guid: 4851f5265e092cc459d2855ba89e0eba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00031-texture
+    second: {fileID: 2800000, guid: aa9fbccd40a118c40a5938ab502ee498, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00032-texture
+    second: {fileID: 2800000, guid: 97401431a8fc8a942a5866ae65be2b07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00033-texture
+    second: {fileID: 2800000, guid: 939c116eb060bab4bbfa75cf8561998f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00034-texture
+    second: {fileID: 2800000, guid: 792b11a00b6d2a54a919be1920104148, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00035-texture
+    second: {fileID: 2800000, guid: 9c595aec542aa524ea8d2e0adc6bd0ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00036-texture
+    second: {fileID: 2800000, guid: 48f0da1c9f3f67a45aecaaf4f8dfc6b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00037-texture
+    second: {fileID: 2800000, guid: 288cf228b21c0654d848dfa8ae26b98d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00038-texture
+    second: {fileID: 2800000, guid: dffe09d4df314214fb900b1c13bc1684, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00039-texture
+    second: {fileID: 2800000, guid: 68867fdda25be4848ae3ac1f8e8b4a44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00040-texture
+    second: {fileID: 2800000, guid: 0cd2f99b19aca6447a7e24489115147c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00041-texture
+    second: {fileID: 2800000, guid: 5aa8f8b4de15735469df959d8e241014, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00042-texture
+    second: {fileID: 2800000, guid: 6a0c6ffb952dc2248890fed100a47762, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00043-texture
+    second: {fileID: 2800000, guid: c8acd97c196054549b5b7dc65de1e190, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00044-texture
+    second: {fileID: 2800000, guid: 8b24cd7284fd44c4486225ad3d1de935, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00045-texture
+    second: {fileID: 2800000, guid: 81160ae143acc9b42bf48e53cf8a1d64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00046-texture
+    second: {fileID: 2800000, guid: b3af5991cecf6394e9dbba59ec806d5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00047-texture
+    second: {fileID: 2800000, guid: 745ebf8d53170024e8c94efae6aced20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00048-texture
+    second: {fileID: 2800000, guid: db9c59348bedf7640a17eeb70485193f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00049-texture
+    second: {fileID: 2800000, guid: 214ea38cac475684b909c874d5e800e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00050-texture
+    second: {fileID: 2800000, guid: 98f1d3b0602d7924189d75db501ceaad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00051-texture
+    second: {fileID: 2800000, guid: a31f21f99c7bba240943b315b07c0be5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00052-texture
+    second: {fileID: 2800000, guid: 15592b8b949e83f4e94ea50fee52a73f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00053-texture
+    second: {fileID: 2800000, guid: f37b2874c6cfdcc42a212fffb8aec5c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00054-texture
+    second: {fileID: 2800000, guid: ab40713fc3b91184d968b7ca1404f143, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00055-texture
+    second: {fileID: 2800000, guid: 20ce936ef68471f438c8ed0250c91fab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00056-texture
+    second: {fileID: 2800000, guid: 2526e5c73759e884e94d131bab772a0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00057-texture
+    second: {fileID: 2800000, guid: dfb17328b281932439749ef13212ee49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00058-texture
+    second: {fileID: 2800000, guid: 2768de4bc2ca9c346857e41a6577d384, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00059-texture
+    second: {fileID: 2800000, guid: e0292e413397a7b4aa3e585761fde9ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00060-texture
+    second: {fileID: 2800000, guid: 1502b989027e5a642ab8f3be09b9831b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00061-texture
+    second: {fileID: 2800000, guid: 310b56fc4c4fdf3489a24f4c418c9bcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00062-texture
+    second: {fileID: 2800000, guid: 0f5fea0b1ed664940830f1af4de720b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00063-texture
+    second: {fileID: 2800000, guid: a962c0b7a2946ec4280c0c0f72d85a09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00064-texture
+    second: {fileID: 2800000, guid: f32133370b2a0c444b1b4e12aac2da75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00065-texture
+    second: {fileID: 2800000, guid: 046098d973ba6d24b84105c52de0b012, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00066-texture
+    second: {fileID: 2800000, guid: 526b1a73d0406fd4988848a073a8e976, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00067-texture
+    second: {fileID: 2800000, guid: 93a2fc7392be63f41b902334d80f2044, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00068-texture
+    second: {fileID: 2800000, guid: 317a1d2c1b75468408178da93aad0a84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00069-texture
+    second: {fileID: 2800000, guid: 7098c6b3fbadff146b57a86957b6eec4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00070-texture
+    second: {fileID: 2800000, guid: ca78686ba146c9a4c965ba26b81d0954, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00071-texture
+    second: {fileID: 2800000, guid: c4654faef53477d4e8399981b7782b1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00072-texture
+    second: {fileID: 2800000, guid: a7ebf4483b48c6b4fae34bc91ef45e95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00073-texture
+    second: {fileID: 2800000, guid: 094a2033c646b164dbc745d87a2abbf2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00074-texture
+    second: {fileID: 2800000, guid: 67fd1dae437d0494e84c98c534fa159b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00075-texture
+    second: {fileID: 2800000, guid: 79ff268ad35b5e644aba0fa1be743cd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00076-texture
+    second: {fileID: 2800000, guid: a0b25c754bb0c5944aefebb4d55a8b91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00077-texture
+    second: {fileID: 2800000, guid: 2678c5c8bc869054f9ff8fec48cc1f5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00078-texture
+    second: {fileID: 2800000, guid: a79b1022b0e11444a84385d8d2085900, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00079-texture
+    second: {fileID: 2800000, guid: 6631b488359c23145bc6f52cee48c1e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00080-texture
+    second: {fileID: 2800000, guid: 96c4167865feab747a0fd4bc1f636a24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00081-texture
+    second: {fileID: 2800000, guid: 030b8f2cc9e3828448048b1ffdbc16e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00082-texture
+    second: {fileID: 2800000, guid: 711d97782ec3d2a4fa8bc49c10f5883d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00083-texture
+    second: {fileID: 2800000, guid: 2771961da48834b40b4490a165c1f473, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00084-texture
+    second: {fileID: 2800000, guid: 528f686aef423204f8ee9644dcc7b4c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00085-texture
+    second: {fileID: 2800000, guid: 1f39ec1eb2ac13241822b159643f060d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00086-texture
+    second: {fileID: 2800000, guid: 00d9e7ee355f42e4f8ad4492af417660, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00087-texture
+    second: {fileID: 2800000, guid: d2d60230ba0e16f428765c72e0227998, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00088-texture
+    second: {fileID: 2800000, guid: ed8f9a057d151a146897aa4de246ddd5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00089-texture
+    second: {fileID: 2800000, guid: a470dec27be7c7849af6a1d71c81726b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00090-texture
+    second: {fileID: 2800000, guid: a9763fa4ff0cf2747ac9fd665d323cce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00091-texture
+    second: {fileID: 2800000, guid: a89709b1577ec0446b10306c88c6eb20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00092-texture
+    second: {fileID: 2800000, guid: 2e800dcd356a42840a482e31cbb77c96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00093-texture
+    second: {fileID: 2800000, guid: a769fa6d372039741a3c1a3e0cf2e2a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00094-texture
+    second: {fileID: 2800000, guid: d2db0373378a75c4cba1c0d958534e90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00095-texture
+    second: {fileID: 2800000, guid: aba3d219a8c43b74fbcfdc8db374fcf4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00096-texture
+    second: {fileID: 2800000, guid: 51917d73f3ed9d84fadf2031a720059b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00097-texture
+    second: {fileID: 2800000, guid: 4473a319d5aa0824f93ae8ae04477e18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00098-texture
+    second: {fileID: 2800000, guid: 333a3e4f112c32f4888b3167402c299a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00099-texture
+    second: {fileID: 2800000, guid: c3e2d6cdaf9afab45b6e08b1da0e73da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00100-texture
+    second: {fileID: 2800000, guid: 244287ed11c66c040b664d5a7c716381, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00101-texture
+    second: {fileID: 2800000, guid: 326f6c4887e2c20449c8ab626f3f9dd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00102-texture
+    second: {fileID: 2800000, guid: ced47356260f1e54484e61c150dda29f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00103-texture
+    second: {fileID: 2800000, guid: 780b1ae43b3be5c4c9b6877087b910b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00104-texture
+    second: {fileID: 2800000, guid: 84095a9db3fe15140b1a1db2372a1d35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00105-texture
+    second: {fileID: 2800000, guid: 944f020a0a8ec4746b29116437212119, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00106-texture
+    second: {fileID: 2800000, guid: 83fa0f529642ea549bdccfe9b632bcf8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00107-texture
+    second: {fileID: 2800000, guid: f625ea44270c0a84eb150b616ac9aafa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00108-texture
+    second: {fileID: 2800000, guid: 1d216c3a08239154c9f9f8f8a8d4031d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00109-texture
+    second: {fileID: 2800000, guid: bf954c7fb980f174ba49eca2e707011a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00110-texture
+    second: {fileID: 2800000, guid: af90ed95ae9260b49a6c6b1d9627337b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00111-texture
+    second: {fileID: 2800000, guid: eae7f411e3c7e794c9ef37299a240b6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00112-texture
+    second: {fileID: 2800000, guid: f73bda7813101e3449efe52464aef3a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00113-texture
+    second: {fileID: 2800000, guid: a32ae0a1852e7b34cb829ea0342e7d2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00114-texture
+    second: {fileID: 2800000, guid: d822bad9ed3629444ac288bf1348234f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00115-texture
+    second: {fileID: 2800000, guid: e05de2d1fb7ac324d8de29aa2dad8291, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00116-texture
+    second: {fileID: 2800000, guid: 909e841bbc88b3b479b7edcbf63255cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00117-texture
+    second: {fileID: 2800000, guid: 90994fbd149ac764eb5fcd0a7d41002c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00118-texture
+    second: {fileID: 2800000, guid: d667fa20ce4690d44aab4f327c363313, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00119-texture
+    second: {fileID: 2800000, guid: 188127749a332b94b827eba87c382c3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00120-texture
+    second: {fileID: 2800000, guid: d2bcb524ac3ee6e458f5b054a509b2d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00121-texture
+    second: {fileID: 2800000, guid: 7756fed3bddc71b4d95f90d75f78440f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00122-texture
+    second: {fileID: 2800000, guid: 29b0ec881133ad34fa3a9ee85d8e23cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00123-texture
+    second: {fileID: 2800000, guid: be20b6634d20fc848871ea1f102aa3ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00124-texture
+    second: {fileID: 2800000, guid: 12fe3ceb737383947a6925682bf2c630, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00125-texture
+    second: {fileID: 2800000, guid: 9f90c07904e6bda438d72bac71f26b3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00126-texture
+    second: {fileID: 2800000, guid: bd7a640610626584f9dc39bf8f4d3fd5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00127-texture
+    second: {fileID: 2800000, guid: b8aaa2bc6ef91bb4b895d10b6724dda4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00128-texture
+    second: {fileID: 2800000, guid: 9e081c1707bbedb448a61679fa1f5e00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00129-texture
+    second: {fileID: 2800000, guid: d218827e6acb87e4c9566f7a9acc18e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00130-texture
+    second: {fileID: 2800000, guid: db515f31c4b70f54d844486ee05ecdc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00131-texture
+    second: {fileID: 2800000, guid: a03dd63fc3c4450469ce70e6fa79e3f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00132-texture
+    second: {fileID: 2800000, guid: b7ab9a2d5f03a7a4e92c87aa82c28b00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00133-texture
+    second: {fileID: 2800000, guid: fb1d215c71644c045a8de6e9a875760a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00134-texture
+    second: {fileID: 2800000, guid: 4e97c4d2b36e96442a6bf03033865e7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00135-texture
+    second: {fileID: 2800000, guid: 8fb002e424bc4c04795dfed922a81db8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00136-texture
+    second: {fileID: 2800000, guid: 14a870caa94cdf048901e89ff97092f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00137-texture
+    second: {fileID: 2800000, guid: 426b60a09445dcc4092ef8cf78b3e036, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00138-texture
+    second: {fileID: 2800000, guid: 44be358bfa6acbe45b5abe6c2ec7a12b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00139-texture
+    second: {fileID: 2800000, guid: d6f6fc2631b43f5469e8caac805f6bc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00140-texture
+    second: {fileID: 2800000, guid: a48e35385e212614a900eec61da41075, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00141-texture
+    second: {fileID: 2800000, guid: b7a98fcd97993c4408dc80c1f1f12c1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00142-texture
+    second: {fileID: 2800000, guid: 7cc2d2ba0e9b6dc49889dd56b6cd9577, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00143-texture
+    second: {fileID: 2800000, guid: 389b6f55b2ba8914eaccc64a60dcc00b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00144-texture
+    second: {fileID: 2800000, guid: 4f775e3396081d140932caed9ffd89da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00145-texture
+    second: {fileID: 2800000, guid: df201d8cdd7fb72459d842c87a34bb7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00146-texture
+    second: {fileID: 2800000, guid: 203af412290e92944909c09cdf6a68c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00147-texture
+    second: {fileID: 2800000, guid: 314f24b237b948a4f98b5ef555231cc3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00148-texture
+    second: {fileID: 2800000, guid: b6fc56038135b3f4d82af3b7f9240726, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00149-texture
+    second: {fileID: 2800000, guid: e44da04e72cea324fb5eaa877578507a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00150-texture
+    second: {fileID: 2800000, guid: a9df08d6ba53fa34e8a6b95582e38463, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00151-texture
+    second: {fileID: 2800000, guid: e7a54449cda6e63418e5a6605cba5e9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00152-texture
+    second: {fileID: 2800000, guid: 09a5c428ccbeabb419e9a04d18c10b2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00153-texture
+    second: {fileID: 2800000, guid: cdae23f39dce3e444bb17c17ff76b9a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00154-texture
+    second: {fileID: 2800000, guid: 9360dc8238a93fb44857f3ed59f90480, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00155-texture
+    second: {fileID: 2800000, guid: cde5731b5ffc73e4c916a125c99b5d9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00156-texture
+    second: {fileID: 2800000, guid: a9f96302b1bacb5469ce93b7874dae71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00157-texture
+    second: {fileID: 2800000, guid: 90fdca73ca269bd4b970301c81a044e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00158-texture
+    second: {fileID: 2800000, guid: 7876f7610ce02214581b7247bc2cadc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00159-texture
+    second: {fileID: 2800000, guid: a8894140acfced94c94edabf3f9cbb3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00160-texture
+    second: {fileID: 2800000, guid: 12d89fb587402eb409648fa81bd1254a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00161-texture
+    second: {fileID: 2800000, guid: 200ec1d746396e04aa0ebfc21e6bf388, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00162-texture
+    second: {fileID: 2800000, guid: 7e422667b56bdc3439c7f11da2bef4c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00163-texture
+    second: {fileID: 2800000, guid: 8846aa75ad2815a459261e86987f7c62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00164-texture
+    second: {fileID: 2800000, guid: 1874331e5c47b004d9c5dd333f0f3347, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00165-texture
+    second: {fileID: 2800000, guid: 869ed3c67bdcfcc4d96960d0c8b5b69d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00166-texture
+    second: {fileID: 2800000, guid: 6ab0d57a477a7814984d9e7d2c032abb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00167-texture
+    second: {fileID: 2800000, guid: c6d45af8c04e4c24e828eeda12a40889, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00168-texture
+    second: {fileID: 2800000, guid: 4da04a66feff4a740b0d7458f9f57ca7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00169-texture
+    second: {fileID: 2800000, guid: 09b2163893f9e9041884de5912dd884e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00170-texture
+    second: {fileID: 2800000, guid: 08019a008a5934640893b76c4ccd30a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00171-texture
+    second: {fileID: 2800000, guid: fa84106c5cf6eee478b49a57000642f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00172-texture
+    second: {fileID: 2800000, guid: 63cddb7eb324e72499ddceb56b10a0b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00173-texture
+    second: {fileID: 2800000, guid: 7356148fbfa3b8740ba03c8bc888e72e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00174-texture
+    second: {fileID: 2800000, guid: af1803ae981727e41a7d595934db4cf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00175-texture
+    second: {fileID: 2800000, guid: 20a5c83bb413b6545a271121de167865, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00176-texture
+    second: {fileID: 2800000, guid: ff750fbf1d59c19469275ffab44c45cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00177-texture
+    second: {fileID: 2800000, guid: 33d6cb661da5be54a9f7968399a13274, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00178-texture
+    second: {fileID: 2800000, guid: 1056282651b58e4418b67d4d560699c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00179-texture
+    second: {fileID: 2800000, guid: e5ece327425d0b4458e9c15241e956b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00180-texture
+    second: {fileID: 2800000, guid: 0c4b3f7c3046c524091f4f2e82d73cb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00181-texture
+    second: {fileID: 2800000, guid: dba4fa2b4146483418a9f36853276350, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00182-texture
+    second: {fileID: 2800000, guid: b83aafa1e7d623040a4fa99cadeea85b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00183-texture
+    second: {fileID: 2800000, guid: 0bef8c75169b3f746b195d19866f9124, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00184-texture
+    second: {fileID: 2800000, guid: c17378ec8dbe85944a525481782d94e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00185-texture
+    second: {fileID: 2800000, guid: 042ee497574179844b2519c7fda9d2d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00186-texture
+    second: {fileID: 2800000, guid: c21d1b25e8a743541985980695d5ba46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00187-texture
+    second: {fileID: 2800000, guid: cf80b7ea61418754b834add8a0268880, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00188-texture
+    second: {fileID: 2800000, guid: 395dbb1c761091a4c9efa84fb074955a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00189-texture
+    second: {fileID: 2800000, guid: a16b122de62d2664f93aecd25cfe4199, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00190-texture
+    second: {fileID: 2800000, guid: f56acdae9e6b55a47bf2ef9b718cd213, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00191-texture
+    second: {fileID: 2800000, guid: c3ae350153676134388c2fb182f44183, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00192-texture
+    second: {fileID: 2800000, guid: 1d28f307e88706a4aaf0583252c53416, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00193-texture
+    second: {fileID: 2800000, guid: 51d920ef19e0beb4491350e9e66b87a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00194-texture
+    second: {fileID: 2800000, guid: f46abf147dc741e45b670cbde04d9893, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00195-texture
+    second: {fileID: 2800000, guid: 85d9ae6d3345452428236710c936c2d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00196-texture
+    second: {fileID: 2800000, guid: 11ae3a06d0057154797c8bb28d14e868, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00197-texture
+    second: {fileID: 2800000, guid: cf16069e207f6614ea0f19b158a11d69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00198-texture
+    second: {fileID: 2800000, guid: 6a06e3d2b0eca9a4a8d000e0af3091ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00199-texture
+    second: {fileID: 2800000, guid: e5ce59bf484b4c140850149c22aa93fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00200-texture
+    second: {fileID: 2800000, guid: 4ab27a58498d9eb44936ff0a43b9c646, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00201-texture
+    second: {fileID: 2800000, guid: fb04a2a7e83b5e94b8b2b4cce9ab367d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00202-texture
+    second: {fileID: 2800000, guid: 76b9e8ddc8aa04644a2757c2d860bfbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00203-texture
+    second: {fileID: 2800000, guid: 9d4456be78098c64a969975bbeba9a99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00204-texture
+    second: {fileID: 2800000, guid: cb1ab48e704af0641b4b41a69ccc92fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00205-texture
+    second: {fileID: 2800000, guid: 641091012dd51964d81cfce3010e8045, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00206-texture
+    second: {fileID: 2800000, guid: bf5d5518e1e6a8347b88dc0cac87b57c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00207-texture
+    second: {fileID: 2800000, guid: 8911f413439e55944848b9bac05213b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00208-texture
+    second: {fileID: 2800000, guid: 0858727c0b62ad64e91e651b167a6cda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00209-texture
+    second: {fileID: 2800000, guid: aa25c48ff39d16549ae0428997eb2824, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00210-texture
+    second: {fileID: 2800000, guid: 5bd3fe4cc0976eb4faa7272950026952, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00211-texture
+    second: {fileID: 2800000, guid: 8ddab5a3b45cd644196fab71409d9e63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00212-texture
+    second: {fileID: 2800000, guid: 9007ab06024565547b2dfe41b8c7f332, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00213-texture
+    second: {fileID: 2800000, guid: aa1770debe976b54680b75ad6df9bf6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00214-texture
+    second: {fileID: 2800000, guid: d9b00e9fae74c47468b3ad40b4f7e4b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00215-texture
+    second: {fileID: 2800000, guid: ec6e0b8fb4c24d849a84fb5968927017, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00216-texture
+    second: {fileID: 2800000, guid: 36867185a10b185408feed04f7d0cd3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00217-texture
+    second: {fileID: 2800000, guid: 20058155454a7ad46b19d40d4c0ef36c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WalterKunzStadium-00218-texture
+    second: {fileID: 2800000, guid: 4dda82ea53b27e14c82eb5e5f7c1a4b9, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
