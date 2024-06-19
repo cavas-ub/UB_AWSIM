@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Tests/PlayMode/Sensors/SensorsTest.unity
     guid: fdfe2b57b59c262db8bf3372757df0ea
+  - enabled: 1
+    path: Assets/UB_AWSIM/Scenes/ServiceRoad.unity
+    guid: b5014d1372fd065abaf121798ba42a20
   m_configObjects: {}
