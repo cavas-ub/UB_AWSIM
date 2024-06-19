@@ -1,0 +1,1237 @@
+fileFormatVersion: 2
+guid: 95edc776e23707742a20463fb4204150
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00022-texture
+    second: {fileID: 2800000, guid: adc8eae9788dc7b4baeb7af54d3771dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00048-texture
+    second: {fileID: 2800000, guid: edfcaca9e48f6d840a483d4d5566f059, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00051-texture
+    second: {fileID: 2800000, guid: 637bdfb36cf17ff45ab3a025fb83dfbe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00053-texture
+    second: {fileID: 2800000, guid: 581a0abfbfe846e478b46b13a940226d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00057-texture
+    second: {fileID: 2800000, guid: 34c8599fab98a744fb24816d7e023e0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00058-texture
+    second: {fileID: 2800000, guid: 71a16f2ad9560c948a9aaadb454c9dd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00059-texture
+    second: {fileID: 2800000, guid: de04f78d5530038488a3106a09ce6443, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00060-texture
+    second: {fileID: 2800000, guid: 850d605a9cbf56747bf77a9e7c144790, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00061-texture
+    second: {fileID: 2800000, guid: db4b1d75bd3ca2b4287fe6087b7c3149, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00062-texture
+    second: {fileID: 2800000, guid: f19abec73e23a634eb9185cceff7b729, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00063-texture
+    second: {fileID: 2800000, guid: b38286f06ba2114419017698c0fbe74a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00064-texture
+    second: {fileID: 2800000, guid: bb4075a71190a154b8104b3befd2fb02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00065-texture
+    second: {fileID: 2800000, guid: deb2b04002977e840b5276b4200f7b02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00066-texture
+    second: {fileID: 2800000, guid: ffcf7a9a947f126418d60c0c566e36f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00067-texture
+    second: {fileID: 2800000, guid: 68e8b6636abb7484c801fedfc26943e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00068-texture
+    second: {fileID: 2800000, guid: 19aeb39af500daa4287df033f1f0f0d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00069-texture
+    second: {fileID: 2800000, guid: c9da46983f4c3494ea35e0526c006890, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00070-texture
+    second: {fileID: 2800000, guid: 6ab1dba302db3b54a9b14282cb0840e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00072-texture
+    second: {fileID: 2800000, guid: e006f35a6a0f182488303d84c63ca434, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00073-texture
+    second: {fileID: 2800000, guid: 10026f4654e7b2d4abdab1f4cc8650e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00074-texture
+    second: {fileID: 2800000, guid: 0302e7b2e2a8acf448269a2b5b996d4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00075-texture
+    second: {fileID: 2800000, guid: 8abb811f58ee4fd45be5844aca0a5f6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00076-texture
+    second: {fileID: 2800000, guid: 38d25fbe986c719408c3e8d627a18181, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00077-texture
+    second: {fileID: 2800000, guid: ee6931f10c1be4b4c9d14e2806ffb6e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00078-texture
+    second: {fileID: 2800000, guid: 331f6498743a3c7429389556afbe7623, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00079-texture
+    second: {fileID: 2800000, guid: ffaa07e949b99084ba6dbc890d2249f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00084-texture
+    second: {fileID: 2800000, guid: 0c4558217a6755145a50cb0c50c481e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00085-texture
+    second: {fileID: 2800000, guid: b179951e044f0574e9f8a6193504565d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00086-texture
+    second: {fileID: 2800000, guid: 8ab9abb87bac7b040a4e10595783b6ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00087-texture
+    second: {fileID: 2800000, guid: ae2ffb1ec19264642a71788b04377b0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00088-texture
+    second: {fileID: 2800000, guid: 995580086ffbb124faaf7346b1e58018, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00089-texture
+    second: {fileID: 2800000, guid: 44ed97b11f4000c48ad945b5da8d7a6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00090-texture
+    second: {fileID: 2800000, guid: 3cbc734fd4029d04381be063f901490d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00091-texture
+    second: {fileID: 2800000, guid: dc63b806a374efc46bcad52c3e29cb3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00092-texture
+    second: {fileID: 2800000, guid: 6e43dc440dce6d14ba070b54bfabe4b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00093-texture
+    second: {fileID: 2800000, guid: ed54dd659b023054f95a02f6a336a4e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00094-texture
+    second: {fileID: 2800000, guid: 0538dbc3280c1ba44a3683450bd494ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00095-texture
+    second: {fileID: 2800000, guid: 187505889c1fcfa429a4018316d0d479, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00096-texture
+    second: {fileID: 2800000, guid: cfc5e7ec0896d3a4b966b93cab78c3a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00097-texture
+    second: {fileID: 2800000, guid: 6d1e2f69213f72a4594c3af894510836, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00098-texture
+    second: {fileID: 2800000, guid: 38848814a233b21479489e724d198338, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00099-texture
+    second: {fileID: 2800000, guid: de28f03d7f29017478bbb4d25cef32fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00100-texture
+    second: {fileID: 2800000, guid: f7264bc8ea01c9e4a8c8dad925b7b265, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00101-texture
+    second: {fileID: 2800000, guid: bc86423114aa9ba498d9a1ce26ebbe84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00102-texture
+    second: {fileID: 2800000, guid: 14c45712e45af594ba61e144d3134046, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00103-texture
+    second: {fileID: 2800000, guid: 4c1ce3deda4bbca47b0ce5b8569d7ae3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00104-texture
+    second: {fileID: 2800000, guid: 084de327505abe64cb291a552185283a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00105-texture
+    second: {fileID: 2800000, guid: f5f1675b010237e438f142bf0b0f5d7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00106-texture
+    second: {fileID: 2800000, guid: ab6484c8811936847b90f01b2af71f6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00107-texture
+    second: {fileID: 2800000, guid: 0c88f25eebdd68745bd49524bc8aa58d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00108-texture
+    second: {fileID: 2800000, guid: 9b2e75af521dbbf43ab2a8de5b6776b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00109-texture
+    second: {fileID: 2800000, guid: 8c2fd76148ce1474b83f7d56c2bc725f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00110-texture
+    second: {fileID: 2800000, guid: a44279ad682c57e4090b7666631030c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00111-texture
+    second: {fileID: 2800000, guid: a1b030564ecf0c7408ef0ec7b97aca22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00112-texture
+    second: {fileID: 2800000, guid: 3236bb76bcce0b44c8367fe4cacfe016, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00113-texture
+    second: {fileID: 2800000, guid: a7e58679c154101409932f21c730e028, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00114-texture
+    second: {fileID: 2800000, guid: ff6cfe4b49171684380a9ae60cdec7b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00115-texture
+    second: {fileID: 2800000, guid: c74eb46c0de9b0e48b3d351a14d5f7ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00116-texture
+    second: {fileID: 2800000, guid: 0ffea89de24131447b6136708b731d5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00117-texture
+    second: {fileID: 2800000, guid: 04b8a055838426c449c7ae111d204284, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00118-texture
+    second: {fileID: 2800000, guid: b46bdd726ba85144fab3a27b9e42167f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00119-texture
+    second: {fileID: 2800000, guid: c25238b9a8084ac41880ebde97fbd350, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00120-texture
+    second: {fileID: 2800000, guid: 4e3f59e6ff6e7674fa05ea6bbc7f7804, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00121-texture
+    second: {fileID: 2800000, guid: 7d1aa29f7b20a024298b6ec8c83828af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00122-texture
+    second: {fileID: 2800000, guid: 998fd051395abad4c922e70c81076861, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00123-texture
+    second: {fileID: 2800000, guid: b356b74321370014bb4d57694f5b7d65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00124-texture
+    second: {fileID: 2800000, guid: 19403d671954fa64bbf7a4dae1325497, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00125-texture
+    second: {fileID: 2800000, guid: b4265e02cde409840aa179f122799f3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00126-texture
+    second: {fileID: 2800000, guid: 64092eb5d8e261b48bc792f0a8de1ae1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00127-texture
+    second: {fileID: 2800000, guid: a545cff7966b3214b9d1e3ee859f9a9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00128-texture
+    second: {fileID: 2800000, guid: b3df43b71305d2849974c84cb84e759a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00129-texture
+    second: {fileID: 2800000, guid: c6528b704b2d9184285d9134fa18df1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00131-texture
+    second: {fileID: 2800000, guid: f65bcceb04482e84385b0be0eaffb830, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00132-texture
+    second: {fileID: 2800000, guid: 25eb6ab706e9ac242b6151e834189023, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00133-texture
+    second: {fileID: 2800000, guid: fb1ad14de9f0e0448848fc17b136dde5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00134-texture
+    second: {fileID: 2800000, guid: 2486a88f45c9e854ba2ffe75769b6f5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00135-texture
+    second: {fileID: 2800000, guid: e03b4b04c5a6abe4fa1afb01ab2de19e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00136-texture
+    second: {fileID: 2800000, guid: 110b8fa557238854b987ff33120c38cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00137-texture
+    second: {fileID: 2800000, guid: d83afd6b6bf0ce44e9eb3c46e65c31ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00138-texture
+    second: {fileID: 2800000, guid: d52cb95e1a44d7e4ca5c80c08a46921b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00139-texture
+    second: {fileID: 2800000, guid: 842528fbc0551ef4db4c8b01951996aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00140-texture
+    second: {fileID: 2800000, guid: 739e3809c412fd146a2d5a7a31094a9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00141-texture
+    second: {fileID: 2800000, guid: 45938b18360c56947b7f47e762fc444c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00142-texture
+    second: {fileID: 2800000, guid: a23bbbc8d8436c749897dc87b02edb49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00143-texture
+    second: {fileID: 2800000, guid: 99a0c3c5aaeff5b4e8feef83c2114853, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00144-texture
+    second: {fileID: 2800000, guid: 7161abe002712154eab0d8b6f39c02ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00145-texture
+    second: {fileID: 2800000, guid: 1b2df7a47af88fc4994af45814235939, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00146-texture
+    second: {fileID: 2800000, guid: aceb0936d3976524e9c160085f18d38e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00147-texture
+    second: {fileID: 2800000, guid: d2745470ef4cdeb4c80aaa62dd478d55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00148-texture
+    second: {fileID: 2800000, guid: bb726246c810cd446bcfe2d3bc3a8a52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00149-texture
+    second: {fileID: 2800000, guid: 857594eaa3b2f21409d29e894880b417, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00150-texture
+    second: {fileID: 2800000, guid: 2491ce8f839b6644c96510b02aa22804, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00151-texture
+    second: {fileID: 2800000, guid: e3bf8743bfedbda44a1fb34f776d513b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00152-texture
+    second: {fileID: 2800000, guid: f38fc251f776e384484fc5f3c2bc19f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00153-texture
+    second: {fileID: 2800000, guid: 66f9800c76a086143b384d8ec78fdf4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00154-texture
+    second: {fileID: 2800000, guid: 8c02cfed66944c64885b0eb7ff40eaac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00157-texture
+    second: {fileID: 2800000, guid: aeeadda269c36dd4695e0e6db29d3b3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00158-texture
+    second: {fileID: 2800000, guid: ccefbb362f7349b45a1d714b7948c2a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00159-texture
+    second: {fileID: 2800000, guid: 8099c02e6e5a13046bb459795059d493, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00160-texture
+    second: {fileID: 2800000, guid: 5a8f71a3f14662c48a6968d5e9c016da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00161-texture
+    second: {fileID: 2800000, guid: 1069cd4253fa7b149ac5443842e2e559, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00162-texture
+    second: {fileID: 2800000, guid: 7e9050b2db44de3408aa6d410be18df3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00163-texture
+    second: {fileID: 2800000, guid: 7f2e999c0a14e884d9fac5ad670b4d2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00164-texture
+    second: {fileID: 2800000, guid: 07a3bf3e557785c409366d4a0b123583, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00165-texture
+    second: {fileID: 2800000, guid: 1760d70d375cbe44a9a3754ffca8a783, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00166-texture
+    second: {fileID: 2800000, guid: 33072c14e88b4f64cb6ce54910470de1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00169-texture
+    second: {fileID: 2800000, guid: 99b2f8ec170fa3f4f82a327e7011d77d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00170-texture
+    second: {fileID: 2800000, guid: 372e1e65b7c9fd44baaac984ab4b8a48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00171-texture
+    second: {fileID: 2800000, guid: e162305c3f37db246b40eceb46ec226c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00172-texture
+    second: {fileID: 2800000, guid: 95380c61c419f3641883a575cc572dee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00173-texture
+    second: {fileID: 2800000, guid: 6f40b1b1cbeee3842abb22e19fdb4610, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00174-texture
+    second: {fileID: 2800000, guid: 95f1de3962d14ff419d158455b6a7990, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00175-texture
+    second: {fileID: 2800000, guid: 4f87f16011200574c92936aa0ea100e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00177-texture
+    second: {fileID: 2800000, guid: b60ab23ec05630e469cfd4b638ea3a5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00178-texture
+    second: {fileID: 2800000, guid: 23314fdc8418fb14eb46f8dd94d2163e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00179-texture
+    second: {fileID: 2800000, guid: 0368243fcd42ef8459353214bcfd933a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00180-texture
+    second: {fileID: 2800000, guid: 132defafcfa288545b2f52c7241ae5b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00181-texture
+    second: {fileID: 2800000, guid: ff39cbfef07890f44bb86703af7ae1b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00182-texture
+    second: {fileID: 2800000, guid: 89f0178767bd8b8448c5f61588e234c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00183-texture
+    second: {fileID: 2800000, guid: 5887d0eca7bcea84187e4265d82b1eb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00185-texture
+    second: {fileID: 2800000, guid: a646a1ec3143aeb4e85f964cde9929b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00186-texture
+    second: {fileID: 2800000, guid: ba13e94d2be8dc1468d30b4644d185f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00187-texture
+    second: {fileID: 2800000, guid: 60eb06d1215d2d542939414ea98c3387, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00188-texture
+    second: {fileID: 2800000, guid: 69df3c233390f724cbfdb88c69dec53f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00189-texture
+    second: {fileID: 2800000, guid: a7590bcf00b05ae4792a2091212972d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00191-texture
+    second: {fileID: 2800000, guid: 9d04d3e00fb381a47830a82277ecf410, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00192-texture
+    second: {fileID: 2800000, guid: 877bda21138c921409dd06a2acb2a556, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00193-texture
+    second: {fileID: 2800000, guid: 489cd22f11676a340b7da630cf9aa157, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00194-texture
+    second: {fileID: 2800000, guid: e11530ef8d7fc2d40b0322d2b68b6ef1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00195-texture
+    second: {fileID: 2800000, guid: bb590e36282c4fc4d8c71b4447e0f1b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00196-texture
+    second: {fileID: 2800000, guid: c3862f34c5145414bb51178fd105de40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00197-texture
+    second: {fileID: 2800000, guid: 5066df5183e349b4d82d043785c5a30b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00198-texture
+    second: {fileID: 2800000, guid: 3f3a792c03fe958438f3e0f4ccbcf7bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00199-texture
+    second: {fileID: 2800000, guid: d7ceebd80c7fc4243856984dd437dfd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00200-texture
+    second: {fileID: 2800000, guid: a5e5c6a8ddc4c7f4386275fcd0d58aba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00201-texture
+    second: {fileID: 2800000, guid: e51c83741425e074bad82f50f74c7946, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00202-texture
+    second: {fileID: 2800000, guid: 33cecc47423c0c14d861728029d29685, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00203-texture
+    second: {fileID: 2800000, guid: fe62f16f19a4d6e4cb5abf6af2d238bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00204-texture
+    second: {fileID: 2800000, guid: 46c7cbcf7389995448b867565c64d636, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00205-texture
+    second: {fileID: 2800000, guid: ab2652e56bf5b7d43a576d5662ff2851, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00206-texture
+    second: {fileID: 2800000, guid: 59777fa3e8cc2004799f2bdd699d122c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00207-texture
+    second: {fileID: 2800000, guid: 984a5900f69e87f41a3b6bd41697cc4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00208-texture
+    second: {fileID: 2800000, guid: 25f909b4d623b6840aa17ccc76863966, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00209-texture
+    second: {fileID: 2800000, guid: 8405235f7b36e5c40869c340b33e03c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00210-texture
+    second: {fileID: 2800000, guid: 95b667011b41c094b93dad8d87a87260, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00211-texture
+    second: {fileID: 2800000, guid: 209b64dfa3944144fb9c1cfce1c4b8f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00212-texture
+    second: {fileID: 2800000, guid: a40dfeed6b963eb4d864a63800919802, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00214-texture
+    second: {fileID: 2800000, guid: de567eb7a495838408fd539799f9394b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00215-texture
+    second: {fileID: 2800000, guid: e87eeea40f95e4e4f9bbf7e7cb11fb62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00216-texture
+    second: {fileID: 2800000, guid: 853d0e12d2e6dc34fafc96a92b808d75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00217-texture
+    second: {fileID: 2800000, guid: ffa85f48f00d7eb4f97610648cad3e74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00218-texture
+    second: {fileID: 2800000, guid: 2388096ed6c9fa440bd70a926db6a91c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00219-texture
+    second: {fileID: 2800000, guid: 14b3497af2dc5ec47942bd2f0c7845d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00220-texture
+    second: {fileID: 2800000, guid: 573d066ee46acf842b3006102902f20f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00221-texture
+    second: {fileID: 2800000, guid: 8907e7da899bc144b93a311d89b41f53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00222-texture
+    second: {fileID: 2800000, guid: c06b9e6f0b64d684585d7b85f0f61303, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00223-texture
+    second: {fileID: 2800000, guid: 3bbc50ed4864cfd43a5e574ab5f378ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00224-texture
+    second: {fileID: 2800000, guid: dad0decdf4f46014b92e070a74a9ec8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00225-texture
+    second: {fileID: 2800000, guid: dd1b6be12a8b08b46b25e654e2bc0dc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00226-texture
+    second: {fileID: 2800000, guid: 0c44eafcd0bab4b4aabb30b715817a3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00227-texture
+    second: {fileID: 2800000, guid: 9b5d598b72e8026408d4a9661ba8f544, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00228-texture
+    second: {fileID: 2800000, guid: e4dc663667d39454289d734df1e1466d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00229-texture
+    second: {fileID: 2800000, guid: 007ebe73b0cb4f74aa49e0475a4f2a63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00230-texture
+    second: {fileID: 2800000, guid: 568eeb1845e83394888040f062c5912d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00231-texture
+    second: {fileID: 2800000, guid: d138a36364745794790bddc084e0044a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00232-texture
+    second: {fileID: 2800000, guid: 2e4057a52e67afb4a93c5b38f31bc4bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00233-texture
+    second: {fileID: 2800000, guid: 2b4b70316c24e754786d6949a98a628f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00234-texture
+    second: {fileID: 2800000, guid: aea69bba9c2aeaa47a98580524aced2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00235-texture
+    second: {fileID: 2800000, guid: 82a1ef1ad041d1944a28bef62932f015, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00236-texture
+    second: {fileID: 2800000, guid: 94aec41f56a0fb04697fa17d46a36e2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00237-texture
+    second: {fileID: 2800000, guid: 456b5a1c9f9e8fc4fb1f47ca370422b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00240-texture
+    second: {fileID: 2800000, guid: 50c2e17bc65bcc3419fd3987c320eeaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00241-texture
+    second: {fileID: 2800000, guid: 029b17520816b0f4ea31f7dcdb3c0a88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00243-texture
+    second: {fileID: 2800000, guid: 4d3f96e303221e947a38352e8cbdafa2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00244-texture
+    second: {fileID: 2800000, guid: 9eab8d66d15534645b98ed35f0797962, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00245-texture
+    second: {fileID: 2800000, guid: 53e1d6d78d93dc444a55eabad439e1a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00246-texture
+    second: {fileID: 2800000, guid: 0efaf5aa50fbc304f8bb8461086d6d01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00247-texture
+    second: {fileID: 2800000, guid: dc21a2c845ed8da479c3a665c50a4bec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00248-texture
+    second: {fileID: 2800000, guid: 06df1848e9922104fa73e2e394febc76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00249-texture
+    second: {fileID: 2800000, guid: 9eb8c72b79e02f0448c744b3e93e5584, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00250-texture
+    second: {fileID: 2800000, guid: 98b8863756607ad42b7fd8d1a6168ecf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00251-texture
+    second: {fileID: 2800000, guid: b513bc92490e61645b9ddae2613ba6b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00252-texture
+    second: {fileID: 2800000, guid: 363894028aed6d14584ca323f729d85b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00253-texture
+    second: {fileID: 2800000, guid: 08c5c7ac2002f3d4bb620b783928a7fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00255-texture
+    second: {fileID: 2800000, guid: 10b98aa29bfd8ec4781d904b229b91cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00256-texture
+    second: {fileID: 2800000, guid: e55418faff3965443818f2f69d4f327c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00257-texture
+    second: {fileID: 2800000, guid: ce8faadf19cc74b4fb778ab46015d1ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00258-texture
+    second: {fileID: 2800000, guid: 4eb86ab5b6801024ba44a68e76a54cde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00263-texture
+    second: {fileID: 2800000, guid: d71e10555ac009647affb2c429cdcf16, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00264-texture
+    second: {fileID: 2800000, guid: 927a70eb4dc75d74192d54a2bcd0cb4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00266-texture
+    second: {fileID: 2800000, guid: c548c5d4b427e374391c71ba18ba3f0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00267-texture
+    second: {fileID: 2800000, guid: f8199d5b818ee8b4799c396447dc506f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00268-texture
+    second: {fileID: 2800000, guid: d03941ae362a5dc478135cc7287c4480, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00269-texture
+    second: {fileID: 2800000, guid: dbda10de7b9d2ba45b9f7aab50edb0a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00270-texture
+    second: {fileID: 2800000, guid: b59034f58790903499e31bce51fc999d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00271-texture
+    second: {fileID: 2800000, guid: 4d2c66f2bfe746a44be9744140525d6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00273-texture
+    second: {fileID: 2800000, guid: 52680d60c00a05849bec7848f6526813, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00274-texture
+    second: {fileID: 2800000, guid: a108977360b62f142bd5655ea729020b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00275-texture
+    second: {fileID: 2800000, guid: 22be2029aec504540be32c98244f785d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00276-texture
+    second: {fileID: 2800000, guid: f86cfb38328f8d5468f9787fcf4c1ba8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00277-texture
+    second: {fileID: 2800000, guid: 77d6ff7996083344fb886936a018137d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00278-texture
+    second: {fileID: 2800000, guid: 5cde8745768a6224484ded32f83accd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00281-texture
+    second: {fileID: 2800000, guid: 9c258bc81190bc647b036ed67dea8381, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00282-texture
+    second: {fileID: 2800000, guid: 15e83dffe1aa87a4d80ec85f54bb3ac1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00283-texture
+    second: {fileID: 2800000, guid: c4163c8beef33ba48abc46392ffb4bb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00284-texture
+    second: {fileID: 2800000, guid: 484fd5b1379b85a4b86e90fbef99b5fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00285-texture
+    second: {fileID: 2800000, guid: c90926c63ff51de489c78de8259ba83c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00286-texture
+    second: {fileID: 2800000, guid: 943ea2c7762ab264790fae48bf397cf6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00289-texture
+    second: {fileID: 2800000, guid: a057a393201a9fd43892f4fcbcd9dd28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00290-texture
+    second: {fileID: 2800000, guid: e33a8eb8f052fd744869417916ff10d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00293-texture
+    second: {fileID: 2800000, guid: bf9f2ce3d99c4f046a152c996c471e74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00294-texture
+    second: {fileID: 2800000, guid: 77be1fab4cbb5cc48b52be4e6ecc7d9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00295-texture
+    second: {fileID: 2800000, guid: d3178b17bd2c7cf42a4a691e1d3f9fa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00296-texture
+    second: {fileID: 2800000, guid: 8baa11b02100b194880ac8f034690c34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00297-texture
+    second: {fileID: 2800000, guid: 627ebada238c2ad47b4bfbbf2fb7f93e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00298-texture
+    second: {fileID: 2800000, guid: 5389df12689e38b4a96cded91c6d90cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00300-texture
+    second: {fileID: 2800000, guid: 7580ba3966a3dcb42a92e75bd2e2c7cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00319-texture
+    second: {fileID: 2800000, guid: 505625a0d9bab3f43b666ee453dfe245, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00320-texture
+    second: {fileID: 2800000, guid: a087a6c87570c1741b77c2ba6588640a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00321-texture
+    second: {fileID: 2800000, guid: db2938676bcc6b0418f2e333865d9128, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00322-texture
+    second: {fileID: 2800000, guid: d82ef06301aafa449ad4fbff1c77337c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00323-texture
+    second: {fileID: 2800000, guid: 11e8964b487d60f4e9309fda93b7d6b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00324-texture
+    second: {fileID: 2800000, guid: 1640276d3cddf7340b2681c83f250d29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00325-texture
+    second: {fileID: 2800000, guid: da2974a7628abb141831d237d00f533e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00326-texture
+    second: {fileID: 2800000, guid: 9180e42b41d5e4145bb3323ec5573527, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00327-texture
+    second: {fileID: 2800000, guid: 15123a600f301a244bbb972093ca936e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Helm2-00328-texture
+    second: {fileID: 2800000, guid: c4cd39e14d9998d45ae534a787dd09da, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

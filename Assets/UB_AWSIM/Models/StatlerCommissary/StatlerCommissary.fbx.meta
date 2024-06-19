@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: 7f015b664e2809f4fb9c93f8e64313d4
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00000-texture
+    second: {fileID: 2800000, guid: 4af8a714eaa9e5b4cb5d3227a4050d60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00029-texture
+    second: {fileID: 2800000, guid: 95db2a22093b31c4b9fefdfdc13fa32d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00030-texture
+    second: {fileID: 2800000, guid: cc1025c30f1413542b1fc49b1919910f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00035-texture
+    second: {fileID: 2800000, guid: 8f3ee252eea27bf489ab3b3f771f2d13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00036-texture
+    second: {fileID: 2800000, guid: f36e8744d2982ee4fb32c454fb13f5f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00038-texture
+    second: {fileID: 2800000, guid: 4dd86e3a995390748bf74b9330852b72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00039-texture
+    second: {fileID: 2800000, guid: 4856d9a707c76e048b0f82aace12aecc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00040-texture
+    second: {fileID: 2800000, guid: be1142663e2f6f542a4429ddb1f47661, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00041-texture
+    second: {fileID: 2800000, guid: f7ff29466d7e75e40b6333cf3b6b1361, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00042-texture
+    second: {fileID: 2800000, guid: 14581d66eef422a4a87ba466359a4502, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00045-texture
+    second: {fileID: 2800000, guid: b7eeefb2a92ca764dae2d0726defcf0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00046-texture
+    second: {fileID: 2800000, guid: 28a80339743a4384a87a09ac21a68345, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00047-texture
+    second: {fileID: 2800000, guid: 89d803cbd7fb568429066ae01083bd52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00048-texture
+    second: {fileID: 2800000, guid: 2dc05165caef85e42849279062424129, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00049-texture
+    second: {fileID: 2800000, guid: 24223f49cde179649b85690ecd8e18bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00050-texture
+    second: {fileID: 2800000, guid: af88ccb82de408540b3ededbc8c06d29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00051-texture
+    second: {fileID: 2800000, guid: 356537e568084094ab1efdb21589cc07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00052-texture
+    second: {fileID: 2800000, guid: bc359143e13bd534ba99aa99ed93c9c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00056-texture
+    second: {fileID: 2800000, guid: 93302573218a5594983738be5ec8eb32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00057-texture
+    second: {fileID: 2800000, guid: 6427d1b47ca8b7b48bdf449c59573df1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00061-texture
+    second: {fileID: 2800000, guid: fb70614f25636bc44a38595f32ac3a64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00062-texture
+    second: {fileID: 2800000, guid: f69dbda7fecc3a840ac7c3bcf5a37a15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00063-texture
+    second: {fileID: 2800000, guid: dcb61baefe231714989ad440a382f847, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00064-texture
+    second: {fileID: 2800000, guid: 2f11609868fdbe1438cfd00240664069, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00065-texture
+    second: {fileID: 2800000, guid: 06cf571e38022914aa4ee54fa3eb72d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00066-texture
+    second: {fileID: 2800000, guid: 60a7cbb5f88f70849babf992306bc9f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00067-texture
+    second: {fileID: 2800000, guid: b56e67985932fd44bb8fc69f7a1794f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00068-texture
+    second: {fileID: 2800000, guid: c2fc4151f0baf5241875301737bee2a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00069-texture
+    second: {fileID: 2800000, guid: 39e559e53e2c5384486acdee415533ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00070-texture
+    second: {fileID: 2800000, guid: 9de4071445edf6b40b0af240020b577b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00071-texture
+    second: {fileID: 2800000, guid: 1bb24d3bd476792479f4508be28718fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00072-texture
+    second: {fileID: 2800000, guid: e8effca2ae5a8cf4aa0181f48a514d65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00073-texture
+    second: {fileID: 2800000, guid: 0150c087fc313fd438de20a0b58a2b08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00075-texture
+    second: {fileID: 2800000, guid: f493045277bba544ba40ef9447ec41f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00076-texture
+    second: {fileID: 2800000, guid: 152a7767310a9594e840b8a030ac7dbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00077-texture
+    second: {fileID: 2800000, guid: 5bad43ad814a166468328a2c968b8147, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00078-texture
+    second: {fileID: 2800000, guid: 26444c674e0139f4abc83acdca51d020, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00079-texture
+    second: {fileID: 2800000, guid: c1670f84dcdd4e348b5e6f8f6ac52fa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00080-texture
+    second: {fileID: 2800000, guid: 2151b39a4cbd370449a307a8f0955074, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00081-texture
+    second: {fileID: 2800000, guid: c8aca64afc5c71a49a06c6c7e14dbf8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00082-texture
+    second: {fileID: 2800000, guid: 6a32128d726c5c44a8b7b5f3fe2c31d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00083-texture
+    second: {fileID: 2800000, guid: 6b8b0b16484391948bf3cb236499f177, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00084-texture
+    second: {fileID: 2800000, guid: d4b212afbe6895342b865b2645be2130, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00085-texture
+    second: {fileID: 2800000, guid: a4d46c9a9773f5b478d94ea4a523f7e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00086-texture
+    second: {fileID: 2800000, guid: 0bfecc6ef9fff594693582f03cae21cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00087-texture
+    second: {fileID: 2800000, guid: 3341440355b9928448e414dc35c5be5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00088-texture
+    second: {fileID: 2800000, guid: ab336d92e95929d42b3587323a5db5e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00089-texture
+    second: {fileID: 2800000, guid: 6844e867bd4fcf04aa038179a17380a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00091-texture
+    second: {fileID: 2800000, guid: 759486cca19bde747b38d09078837f54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00092-texture
+    second: {fileID: 2800000, guid: a8f9483a2caa0014e9dae79d107ea443, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00095-texture
+    second: {fileID: 2800000, guid: d909f7f294eced24bbef22fa22de4e9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00096-texture
+    second: {fileID: 2800000, guid: f1f4c861bc843674699b7d98808a1d6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00097-texture
+    second: {fileID: 2800000, guid: 9e127fd3b757bc146bd19400212af2fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00098-texture
+    second: {fileID: 2800000, guid: d13138ceab33f73489796d07d12bbc92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00099-texture
+    second: {fileID: 2800000, guid: cc11bb956e77c174b81338e5d60c1633, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00100-texture
+    second: {fileID: 2800000, guid: f8aad0bdda843e5438dff31f3dea3990, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00101-texture
+    second: {fileID: 2800000, guid: b119af190b796934ab3481116c611358, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00102-texture
+    second: {fileID: 2800000, guid: 91cf2dccd903ecc4cb0e0d2795eea8a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00103-texture
+    second: {fileID: 2800000, guid: 54ccc8cf9cb92d54dbd07a0979c3431b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00104-texture
+    second: {fileID: 2800000, guid: 1cadabd274705494c81dcad041363cb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00105-texture
+    second: {fileID: 2800000, guid: 00fe6a144e62f15449a34d6e03650ec3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00106-texture
+    second: {fileID: 2800000, guid: 738b768219e0f334b84b1131069700c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00107-texture
+    second: {fileID: 2800000, guid: c8247115cf11f5c4e88d120bfe8ee10d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00108-texture
+    second: {fileID: 2800000, guid: 2714cc628434dc540b519fd45a83b3f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00109-texture
+    second: {fileID: 2800000, guid: 60925f8478a4e9242aaec7b3bb813a6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00110-texture
+    second: {fileID: 2800000, guid: 6ebaee82a052529448cc9427a11e6674, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00112-texture
+    second: {fileID: 2800000, guid: 7b5b7b9d77a0be3438cd4e80bb1e87f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00113-texture
+    second: {fileID: 2800000, guid: ce31f94fc685bdd4e90ae4b32c22fd78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00114-texture
+    second: {fileID: 2800000, guid: 8e395e77d32f1cf4fb1b4d50473210e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00115-texture
+    second: {fileID: 2800000, guid: 5199765d3ffc818429b0e671f2778de7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00116-texture
+    second: {fileID: 2800000, guid: 80fa151e82f203141abcdc4958542036, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00117-texture
+    second: {fileID: 2800000, guid: 7237d1fbd8a864b41a5fb98260d88ff7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00118-texture
+    second: {fileID: 2800000, guid: 3522bb25d21678c40ae0dd134835dcc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00119-texture
+    second: {fileID: 2800000, guid: 1003eb0e25f765749a4ce0915ad2df19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00120-texture
+    second: {fileID: 2800000, guid: 890b5a839bc6634408950004a0dac0c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00121-texture
+    second: {fileID: 2800000, guid: 11cafb3f3422f3047bef65cffbf4deea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00122-texture
+    second: {fileID: 2800000, guid: 78246d5708fa6d14db4cc8c1a9d0a896, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00124-texture
+    second: {fileID: 2800000, guid: 242ba28fef1d0054ea4adbd41f2ed757, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00125-texture
+    second: {fileID: 2800000, guid: 954256649cc4a3c4e8dc49a98e2ed117, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00128-texture
+    second: {fileID: 2800000, guid: 1720ce017dd50ac4ca4cb6350fb4bd66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00129-texture
+    second: {fileID: 2800000, guid: 88284df3f06eaf14dbef2368540d9cf1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00131-texture
+    second: {fileID: 2800000, guid: f9ec1828e7a414c4e8ee55ae3bbe24a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00132-texture
+    second: {fileID: 2800000, guid: 15e3db446165c514eac62af04d09742a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00134-texture
+    second: {fileID: 2800000, guid: 19337f5450fb63040b4c955581922cdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00135-texture
+    second: {fileID: 2800000, guid: 365fe8377f36b7f428bb0e80273831a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00136-texture
+    second: {fileID: 2800000, guid: 477fd3c1322cc6e4f8353e350616709b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00137-texture
+    second: {fileID: 2800000, guid: b0c8e32248acf7042a8bb531b5e8582f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00138-texture
+    second: {fileID: 2800000, guid: 632c4a425066dfa4ead8f70e3e8f9191, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00139-texture
+    second: {fileID: 2800000, guid: 7137888fbeedf5947899707333b6081d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00140-texture
+    second: {fileID: 2800000, guid: 41de0a1c78e9a6c45bf52157a6e7c1cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00141-texture
+    second: {fileID: 2800000, guid: 3d83bc57be244764bb766e296e1eec10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00143-texture
+    second: {fileID: 2800000, guid: 1509757517ef5d74999a1cacd25cb0c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00144-texture
+    second: {fileID: 2800000, guid: 46a8e2b98122f4148936dbd2ae8fa29f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00145-texture
+    second: {fileID: 2800000, guid: c8b5e86f122bfd44e842b08a234b4e2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00146-texture
+    second: {fileID: 2800000, guid: 0e0ac5604f6ee5e4da1ac737b387dfb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00147-texture
+    second: {fileID: 2800000, guid: 9e98bea40c05e4b44b0461a5ae81cf71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00148-texture
+    second: {fileID: 2800000, guid: 8b708b94d5bd32a4786b37ae07bf2749, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00151-texture
+    second: {fileID: 2800000, guid: 6709010564efcb6439727e6d5baf820c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00152-texture
+    second: {fileID: 2800000, guid: c4b8dfec926133346bb8534136c6bacc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00153-texture
+    second: {fileID: 2800000, guid: a300c232ec1bb1543b299d6e0b94a7d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00154-texture
+    second: {fileID: 2800000, guid: 36803a9ebd350c943bb873aeecdf145f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00155-texture
+    second: {fileID: 2800000, guid: 92fd9697bd41f9043b105238b43217f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00156-texture
+    second: {fileID: 2800000, guid: 262cab5386dd8db459ec1416d63cf664, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00157-texture
+    second: {fileID: 2800000, guid: f51e9733b8b40b049bf805b48973dfbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00159-texture
+    second: {fileID: 2800000, guid: b84d54ad89ed6cb4faf3dc51049f0db9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00160-texture
+    second: {fileID: 2800000, guid: 5b8304c0bda35544db6de805a917db16, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00163-texture
+    second: {fileID: 2800000, guid: cb6be628a4e7ef44388b171d7ad35428, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00164-texture
+    second: {fileID: 2800000, guid: 1e6c1cdbfb5971244ba1168af539277a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00166-texture
+    second: {fileID: 2800000, guid: d46b7e95a2f89a7419309e86f619a247, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00167-texture
+    second: {fileID: 2800000, guid: 8588e12805fde48438cca7b7417124a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00168-texture
+    second: {fileID: 2800000, guid: b7bc5cd8038ba7f4c9761f3cb4f26aab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00169-texture
+    second: {fileID: 2800000, guid: 11e23823e63fe9945aa6f626c2e30fb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00170-texture
+    second: {fileID: 2800000, guid: d50228cfe08c2ce4aa44905b5fb60528, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00171-texture
+    second: {fileID: 2800000, guid: 0cff3afc58f776c418f2b601c77a8605, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00172-texture
+    second: {fileID: 2800000, guid: 1c750b61061719d4487d6bebd83ee600, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00173-texture
+    second: {fileID: 2800000, guid: efc67555c3ed990418f6316dd367665f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00174-texture
+    second: {fileID: 2800000, guid: 8cb82f048ec9da948bf2c1ddaffa1af3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00175-texture
+    second: {fileID: 2800000, guid: ea7ff87972c79d540a3566c99385b436, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00178-texture
+    second: {fileID: 2800000, guid: 315e5b642fc0459419dac3494604b0ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00179-texture
+    second: {fileID: 2800000, guid: 15553832010f83548a38f8325d124bc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00180-texture
+    second: {fileID: 2800000, guid: da042f3aaca92c94daa16f8549d57998, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00181-texture
+    second: {fileID: 2800000, guid: ef0acbbd43f9fe9439de119efa5ac002, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00182-texture
+    second: {fileID: 2800000, guid: be88479d6b1bf6f4581f3923df223298, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00188-texture
+    second: {fileID: 2800000, guid: a79c5c9e7d8fe1a4dbabfa017f477ac7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00189-texture
+    second: {fileID: 2800000, guid: 8f298dcf4b3e4bd4e831ee7e3fed13dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00190-texture
+    second: {fileID: 2800000, guid: 79b3b98cba770ad4291955359edb0a7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00191-texture
+    second: {fileID: 2800000, guid: 2f581f00033a1ff4097b8128d9d776b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00192-texture
+    second: {fileID: 2800000, guid: 4ba64bb8cbbb678499a936e88f8024a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00194-texture
+    second: {fileID: 2800000, guid: 31355731f759e6f40b9dbf86bb5bc1a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00195-texture
+    second: {fileID: 2800000, guid: 776edcd3ec3f837438d514be0c53f0a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00201-texture
+    second: {fileID: 2800000, guid: 7146a60edd2e3d44981f5c881ce89c31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00202-texture
+    second: {fileID: 2800000, guid: 76277f75d61dfd14f9d045caeef4e857, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00204-texture
+    second: {fileID: 2800000, guid: 9943bf92614463641a2a1158cd5b76d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StatlerFoodCommissary-00212-texture
+    second: {fileID: 2800000, guid: 7c4398f5ca1bbef4d9761107e1cefd90, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
