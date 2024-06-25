@@ -1,3 +1,4 @@
 .github/ export-ignore
 .gitattributes
 #.git*    export-ignore
+*.obj filter=lfs diff=lfs merge=lfs -text
